@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [@yusupov1637](@yusupov1637)
 
-- 📝 I regularly write articles on [Java Core](Java Core)
-
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **yusupov.otabek1637@gmail.com**
