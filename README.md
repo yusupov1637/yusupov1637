@@ -8,11 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusupov1637&label=Profile%20views&color=0e75b6&style=flat" alt="yusupov1637" /> </p>
 
-- 🌱 I’m currently learning **Spring framework**
+- 🌱 I’m currently learning **Golang in EPAM training**
 
 - 👨‍💻 All of my projects are available at [@yusupov1637](@yusupov1637)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java core,Spring Framework,RabbitMq**
 
 - 📫 How to reach me **yusupov.otabek1637@gmail.com**
 
