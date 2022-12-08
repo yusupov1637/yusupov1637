@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [@yusupov1637](@yusupov1637)
 
-- 💬 Ask me about **Java core,Spring Framework,RabbitMq**
+- 💬 Ask me about **Java core,Spring Framework,RabbitMq,Git,Postgresql**
 
 - 📫 How to reach me **yusupov.otabek1637@gmail.com**
 
